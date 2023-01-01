@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Kotlin</string>
+    <string name="sampletitlte">Title of repo</string>
+    <string name="about_us">About Me</string>
+    <string name="developed_by_utkarsh_tripathi">Developed By : Utkarsh tripathi</string>
+    <string name="intro">Hi, I\'m a budding software developer and team player. Having keen interest in solving real world problems, developing android application and learning new concepts &amp; techniques of Data Structure &amp; Algorithm.Actively ,looking for SDE Intern roles.</string>
+</resources>
